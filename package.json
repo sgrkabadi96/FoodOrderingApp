@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.4",
+    "bootstrap": "^3.4.1",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router": "^6.10.0",
+    "react-router-dom": "^6.10.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
